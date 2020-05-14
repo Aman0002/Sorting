@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586767436 source:c:\users\dell\desktop\algo\sorting&searching\mergesort\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
